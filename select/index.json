@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブレイク・ユア・ハート feat. リュダクリス",
+  "base_artist": "Taio Cruz",
+  "createdAt": "2026-03-05T14:03:59.188796Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz",
+      "has_synced": false,
+      "path": "select/pl_01_Break_Your_Heart_Taio_Cruz.txt"
+    }
+  ]
+}
